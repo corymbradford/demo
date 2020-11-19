@@ -6,6 +6,9 @@
     { "upc": "0001111097191", "title": "Naturally Hardwood Smoked Bacon", "category": "Meats", "type": "Bacon", "cost": "4.49", "weight": "16 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0001111097191" },
     { "upc": "0001111097045", "title": "Traditional Breakfast Sausage Patties", "category": "Meats", "type": "Sausage", "cost": "2.50", "weight": "12 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0001111097045" },
     { "upc": "0000000004011", "title": "Banana", "category": "Fruits", "type": "Fresh Fruit", "cost": "0.25/each", "weight": "0.5 lb", "image": "https://www.kroger.com/product/images/xlarge/front/0000000004011" },
-    { "upc": "0003338320038", "title": "Organic Strawberries", "category": "Organic Fruits", "type": "Organic Produce", "cost": "6.49", "weight": "16 oz", "image": "https://www.kroger.com/product/images/medium/front/0003338320038" }
+    { "upc": "0003338320038", "title": "Organic Strawberries", "category": "Organic Fruits", "type": "Organic Produce", "cost": "6.49", "weight": "16 oz", "image": "https://www.kroger.com/product/images/medium/front/0003338320038" },
+    { "upc": "0002840059668", "title": "Cheetos Jumbo Puffs", "category": "Snacks", "type": "Pantry", "cost": "2.99", "weight": "8 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0002840059668" },
+    { "upc": "0004400003327", "title": "Oreo Chocolate Sandwich Family Size", "category": "Snacks", "type": "Pantry", "cost": "3.50", "weight": "19.1 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0004400003327" },
+    { "upc": "0002840064306", "title": "Doritos Nacho Cheese Flavored Tortilla Chips Party Size", "category": "Snacks", "type": "Pantry", "cost": "3.99", "weight": "15 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0002840064306" }
   ] 
 }
