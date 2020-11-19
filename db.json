@@ -1,9 +1,9 @@
 {
   "meats": [
-    { "upc": 0001111096972, "title": "Ground Beef 80% Lean" "type": "Beef" "cost": 4.99 "weight": "1 lb"},
-    { "upc": 0002370016226, "title": "Tyson All Natural Boneless Skinless Chicken Breasts" "type": "Chicken" "cost": 8.99 "weight": "3 lb"},
-    { "upc": 0003318601780, "title": "Blue Grass Country Ham Slices" "type": "Ham" "cost": 6.99 "weight": "21 oz" },
-    { "upc": 0001111097191, "title": "Naturally Hardwood Smoked Bacon" "type": "Bacon" "cost": 4.49 "weight": "16 oz" },
-    { "upc": 0001111097045, "title": "Traditional Breakfast Sausage Patties" "type": "Sausage" "cost": 2.50 "weight": "12 oz" }
+    { "upc": 0001111096972, "title": "Ground Beef 80% Lean", "type": "Beef", "cost": 4.99, "weight": "1 lb"},
+    { "upc": 0002370016226, "title": "Tyson All Natural Boneless Skinless Chicken Breasts", "type": "Chicken", "cost": 8.99, "weight": "3 lb"},
+    { "upc": 0003318601780, "title": "Blue Grass Country Ham Slices", "type": "Ham", "cost": 6.99, "weight": "21 oz" },
+    { "upc": 0001111097191, "title": "Naturally Hardwood Smoked Bacon", "type": "Bacon", "cost": 4.49, "weight": "16 oz" },
+    { "upc": 0001111097045, "title": "Traditional Breakfast Sausage Patties", "type": "Sausage", "cost": 2.50, "weight": "12 oz" }
   ]
 }
