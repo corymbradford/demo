@@ -1,5 +1,11 @@
 {
   "items": [
-    { "upc": "0001111096972", "title": "Ground Beef 80% Lean", "category": "Meats", "type": "Beef", "cost": "4.99", "weight": "1 lb", "image": "https://www.kroger.com/product/images/xlarge/front/0001111096972"}
+    { "upc": "0001111096972", "title": "Ground Beef 80% Lean", "category": "Meats", "type": "Beef", "cost": "4.99", "weight": "1 lb", "image": "https://www.kroger.com/product/images/xlarge/front/0001111096972"},
+    { "upc": "0002370016226", "title": "Tyson All Natural Boneless Skinless Chicken Breasts", "category": "Meats", "type": "Chicken", "cost": "8.99", "weight": "3 lb", "image": "https://www.kroger.com/product/images/xlarge/front/0002370016226"},
+    { "upc": "0003318601780", "title": "Blue Grass Country Ham Slices", "category": "Meats", "type": "Ham", "cost": "6.99", "weight": "21 oz", "image": "https://www.kroger.com/product/images/large/front/0003318601780" },
+    { "upc": "0001111097191", "title": "Naturally Hardwood Smoked Bacon", "category": "Meats", "type": "Bacon", "cost": "4.49", "weight": "16 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0001111097191" },
+    { "upc": "0001111097045", "title": "Traditional Breakfast Sausage Patties", "category": "Meats", "type": "Sausage", "cost": "2.50", "weight": "12 oz", "image": "https://www.kroger.com/product/images/xlarge/front/0001111097045" },
+    { "upc": "0000000004011", "title": "Banana", "category": "Fruits", "type": "Fresh Fruit", "cost": "0.25/each", "weight": "0.5 lb", "image": "https://www.kroger.com/product/images/xlarge/front/0000000004011" },
+    { "upc": "0003338320038", "title": "Organic Strawberries", "category": "Fruits", "type": "Fresh Fruit", "cost": "6.49", "weight": "16 oz", "image": "https://www.kroger.com/product/images/medium/front/0003338320038" }
   ] 
 }
